@@ -27,8 +27,7 @@ When the user selects the equals (=) button, the calculator evaluates the expres
 
 ## Usage
 
-1. Clone the repository: git clone https:![Screenshot 2024-03-06 191951](https://github.com/NatharaIqbal/Calculator/assets/138295014/d01bf1f2-cbfc-443f-bb56-7910f048fbe6)
-//github.com/NatharaIqbal/calculator.git 
+1. Clone the repository: git clone https://github.com/NatharaIqbal/calculator.git 
 2. Open the `index.html` file in your web browser.
 3. Use the calculator to perform basic arithmetic calculations.
 
